@@ -9,3 +9,7 @@ kabul edildiyse o problemin klasörüne kodunuzu paylaşmanızı rica ediyorum.
 İlk sıradan başlayarak kolaydan zora doğru kodları yazacağız.
 
 1.soru ->  https://codeforces.com/problemset/problem/977/A
+
+2.soru ->  https://codeforces.com/problemset/problem/1030/A
+
+3.soru ->  https://codeforces.com/problemset/problem/791/A
