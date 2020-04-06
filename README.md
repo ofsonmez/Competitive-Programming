@@ -13,3 +13,5 @@ kabul edildiyse o problemin klasörüne kodunuzu paylaşmanızı rica ediyorum.
 2.soru ->  https://codeforces.com/problemset/problem/1030/A
 
 3.soru ->  https://codeforces.com/problemset/problem/791/A
+
+4.soru ->  https://codeforces.com/problemset/problem/705/A
