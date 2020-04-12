@@ -17,3 +17,7 @@ kabul edildiyse o problemin klasörüne kodunuzu paylaşmanızı rica ediyorum.
 4.soru ->  https://codeforces.com/problemset/problem/705/A
 
 5.soru ->  https://codeforces.com/problemset/problem/785/A
+
+6.soru -> https://codeforces.com/problemset/problem/996/A
+
+7.soru -> https://codeforces.com/problemset/problem/1154/A
